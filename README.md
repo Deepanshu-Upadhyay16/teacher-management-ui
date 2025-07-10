@@ -50,8 +50,6 @@ npm install
 # 3. Start development server
 npm run dev
 
-
-Folder Structure
 teacher-management-ui/
 ├── components/
 │   ├── TeacherCard.tsx
@@ -66,4 +64,7 @@ teacher-management-ui/
 │   └── favicon.ico
 └── README.md
 
+
 Deepanshu Upadhyay
+
+
